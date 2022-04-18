@@ -43,5 +43,5 @@ Marcello Gama
    [Owl Carousel]: <https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html>
    [CDN]: <https://developer.mozilla.org/en-US/docs/Glossary/CDN>
    [linkedin]: <https://linkedin.com/in/https://www.linkedin.com/in/marcello-gama-305017125/>
-   [Github]: <https://google.com>
+   [Github]: <https://github.com/Gamamarcello>
    [Fontawesome]: <https://fontawesome.com/>
